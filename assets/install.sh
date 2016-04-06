@@ -117,6 +117,7 @@ cat >> /etc/opendkim/TrustedHosts <<EOF
 127.0.0.1
 localhost
 192.168.0.1/24
+192.168.99.100
 
 *.$maildomain
 EOF
